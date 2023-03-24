@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1YIaz1MhP5OHlQd85/p8ao8tSDfykUVAfPIE+TPS46rl/4RULXSijk3LM0GFd7iWE4OfmA0uqZL+jWBdovnig==",
+  "success": true,
+  "projectFilePath": "D:\\Treinamento RabbitMQ\\AulaMasterClass\\AulaMasterClass\\AulaMasterClass\\AulaMasterClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nelson.campozano\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\nelson.campozano\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\nelson.campozano\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

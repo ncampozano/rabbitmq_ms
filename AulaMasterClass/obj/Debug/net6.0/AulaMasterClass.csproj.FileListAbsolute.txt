@@ -1,0 +1,17 @@
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\bin\Debug\net6.0\AulaMasterClass.exe
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\bin\Debug\net6.0\AulaMasterClass.deps.json
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\bin\Debug\net6.0\AulaMasterClass.runtimeconfig.json
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\bin\Debug\net6.0\AulaMasterClass.dll
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\bin\Debug\net6.0\AulaMasterClass.pdb
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.csproj.AssemblyReference.cache
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.AssemblyInfoInputs.cache
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.AssemblyInfo.cs
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.csproj.CoreCompileInputs.cache
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.csproj.CopyComplete
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.dll
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\refint\AulaMasterClass.dll
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.pdb
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\AulaMasterClass.genruntimeconfig.cache
+D:\Treinamento RabbitMQ\AulaMasterClass\AulaMasterClass\AulaMasterClass\obj\Debug\net6.0\ref\AulaMasterClass.dll
